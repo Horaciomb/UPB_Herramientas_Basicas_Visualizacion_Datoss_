@@ -65,11 +65,3 @@ Archivo: [HBVD_s1.ipynb](HBVD_s1.ipynb)
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para discutir cualquier cambio que te gustaría realizar.
-
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
-
-## Contacto
-Para cualquier consulta, por favor contacta a [tu correo electrónico].
-
-¡Disfruta aprendiendo y explorando las herramientas básicas de visualización de datos!
